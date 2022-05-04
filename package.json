@@ -1,0 +1,14 @@
+{
+  "name": "effection-inspector-example",
+  "version": "1.0.0",
+  "description": "Example for Inspection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@effection/inspect-server": "^2.1.5"
+  }
+}
